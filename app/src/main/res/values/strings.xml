@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ALC 4 Phase I</string>
+    <string name="action_settings">Settings</string>
+    <string name="wlm_text">Welcome to ALC 4.0</string>
+    <string name="title_activity_about__alc">About ALC</string>
+    <string name="title_activity_my_profile">My profile</string>
+    <string name="about_alc_url">http://www.google.com</string>
+    <string name="connection_error">There is no internet connection, please try again later.</string>
+</resources>
